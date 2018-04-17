@@ -7,12 +7,12 @@ Make sure you did the following steps:
 3) kubectl is configured to your cluster
 4) run kubectl cluster-info to verify
 
-we will start by configure our cluster
+we will start by checking the version
 
 ## Task
 
 This is an _example_ of creating a scenario and running a **command**
 
-`hkube --config [your-ips]`{{execute}}
+`hkube --version [your-ips]`{{execute}}
 
 

@@ -7,12 +7,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Run Command",
+        "title": "Step 1 - Version",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Run Command",
+        "title": "Step 2 - Deploy Third-Party",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Deploy Core",
+        "text": "step3.md"
       }
     ],
     "intro": {
