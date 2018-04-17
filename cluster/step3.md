@@ -1,9 +1,9 @@
 Deploy your cluster
 
-we will start by deploy third-party
+we will start by deploy core services
 
 ## Task
 
 This is an _example_ of creating a scenario and running a **command**
 
-`hkube deploy -t`{{execute}}
+`hkube deploy -c`{{execute}}
