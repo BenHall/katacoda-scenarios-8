@@ -11,8 +11,8 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 1 - Run Command",
-        "text": "step1.md"
+        "title": "Step 2 - Run Command",
+        "text": "step2.md"
       }
     ],
     "intro": {
@@ -27,9 +27,9 @@
   "environment": {
     "uilayout": "terminal",
     "hideintro": false,
-    "hidefinish": 4,
-    "uisettings": 3,
-    "icon": 2,
+    "hidefinish": false,
+    "uisettings": "javascript",
+    "icon": "fa-node",
     "showdashboard": true,
     "dashboards": [
       {
