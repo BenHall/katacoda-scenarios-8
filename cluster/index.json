@@ -30,20 +30,9 @@
     "hidefinish": false,
     "uisettings": "javascript",
     "icon": "fa-node",
-    "showdashboard": true,
-    "dashboards": [
-      {
-        "name": "Tab Name",
-        "port": 80
-      },
-      {
-        "name": "Tab Name",
-        "port": 8080
-      }
-    ],
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "docker"
   }
 }
