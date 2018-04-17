@@ -1,7 +1,9 @@
-This is your first step ? - maybe.
+Deploy your cluster
+
+we will start by deploy third-party
 
 ## Task
 
 This is an _example_ of creating a scenario and running a **command**
 
-`echo 'Hello World'`{{execute}}
+`hkube --deploy -t`{{execute}}
