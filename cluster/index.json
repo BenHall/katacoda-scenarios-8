@@ -26,10 +26,6 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "hideintro": false,
-    "hidefinish": false,
-    "uisettings": "javascript",
-    "icon": "fa-node",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
   },
   "backend": {
