@@ -1,3 +1,1 @@
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-sudo apt-get install -y nodejs
-npm i -g @hkube/hkube
+ssh root@host01 "npm i -g @hkube/hkube"
